@@ -4,4 +4,4 @@
 
 This is the repo for [**Inverse Garment and Pattern Modeling with a Differentiable Simulator**](https://arxiv.org/abs/2403.06841).
 
-codes coming soon..
+Please refer to: https://github.com/MLMS-CG/IGPM/tree/main
